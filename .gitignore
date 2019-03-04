@@ -1,0 +1,10 @@
+/frontend/node_modules/*
+/frontend/app/controllers/*
+/frontend/app/services/*
+/frontend/app/directives/*
+/frontend/app/filters/*
+/frontend/app/lang/*
+.idea
+*.pyc
+.DS_Store
+project/medic52/static
